@@ -1,5 +1,5 @@
 # Live-Weather-app
-A simple Live Weather App built with HTML, CSS, and JavaScript that fetches real-time weather data using WeatherAPI.
+A simple Live Weather App built with HTML, CSS, and JavaScript that fetches real-time weather data using WeatherAPI which changes colour of the background according to the temperature of the city .
 
 🚀 Features
 ✅ Live weather updates for any city
@@ -12,4 +12,4 @@ CSS – Styling & responsiveness
 JavaScript – Fetching and displaying data
 
 🌐 API Used
-This app uses WeatherAPI to fetch real-time weather details. Get your free API key from WeatherAPI
+This app uses WeatherAPI to fetch real-time weather details. Get your free API key from WeatherAPI 
