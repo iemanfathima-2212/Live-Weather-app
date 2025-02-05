@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun Weather App</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="scrip.js"></script>
+</head>
+<body>
+    <div class="weather-app">
+        <!-- Header Section -->
+        <header>
+            <h1>🌤 Live Weather </h1>
+            <p class="tagline">Get instant weather updates for any city!</p>
+        </header>
+
+        <!-- Search Section -->
+        <section class="search-section">
+            <div class="search-box">
+                <input type="text" id="city-input" placeholder="Enter city name..." aria-label="Enter city name">
+                <button id="search-btn" aria-label="Search for weather">Search</button>
+            </div>
+        </section>
+
+        <!-- Weather Information Section -->
+        <section class="weather-info">
+            <h2 id="city-name">City</h2>
+            <p id="temp">--°C</p>
+            <div class="icon">
+                <img id="weather-icon" src="w_icon.png" alt="Weather Icon">
+            </div>
+            <p id="description">Weather</p>
+        </section>
+
+        <!-- Footer Section -->
+        <footer>
+            <p>&copy; 2025 live Weather App. All Rights Reserved.</p>
+        </footer>
+    </div>
+    <script src="scrip.js"></script>
+</body>
+</html>
+
