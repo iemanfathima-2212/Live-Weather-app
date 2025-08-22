@@ -11,5 +11,5 @@ HTML – Structure
 CSS – Styling & responsiveness
 JavaScript – Fetching and displaying data
 
-🌐 API Used
+🌐 API Used:WeatherAPI
 This app uses WeatherAPI to fetch real-time weather details. Get your free API key from WeatherAPI 
